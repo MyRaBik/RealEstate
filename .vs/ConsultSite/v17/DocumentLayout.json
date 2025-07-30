@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88E82D91-0879-43A5-8174-C0EAE4E29B20}|Infrastructure\\Infrastructure.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\infrastructure\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E82D91-0879-43A5-8174-C0EAE4E29B20}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\consultsite\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|solutionrelative:consultsite\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\consultsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|solutionrelative:consultsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\consultsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|solutionrelative:consultsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\consultsite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|solutionrelative:consultsite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\interfaces\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\interfaces\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\interfaces\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\interfaces\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\consultsite\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|solutionrelative:consultsite\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\dtos\\documents\\documentfulldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\dtos\\documents\\documentfulldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\dtos\\documents\\documentlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\dtos\\documents\\documentlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\consultsite\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|solutionrelative:consultsite\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E82D91-0879-43A5-8174-C0EAE4E29B20}|Infrastructure\\Infrastructure.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\infrastructure\\repositories\\templatefilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E82D91-0879-43A5-8174-C0EAE4E29B20}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\templatefilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\interfaces\\itemplatefilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\interfaces\\itemplatefilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E261B3-A51B-4F5E-B552-69C31C7BE837}|Domain\\Domain.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\domain\\entities\\templatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E261B3-A51B-4F5E-B552-69C31C7BE837}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\templatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\consultsite\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135E1CA2-CE99-4CDA-B127-B34E62AC5F87}|ConsultSite\\ConsultSite.csproj|solutionrelative:consultsite\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\dtos\\user\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\dtos\\user\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\dtos\\user\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\dtos\\user\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E82D91-0879-43A5-8174-C0EAE4E29B20}|Infrastructure\\Infrastructure.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E82D91-0879-43A5-8174-C0EAE4E29B20}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E261B3-A51B-4F5E-B552-69C31C7BE837}|Domain\\Domain.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E261B3-A51B-4F5E-B552-69C31C7BE837}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\dtos\\documents\\documenttopicgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\dtos\\documents\\documenttopicgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\dtos\\documents\\documentshortdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\dtos\\documents\\documentshortdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|d:\\gamerbear\\consultsite_with_download\\consultsite\\application\\dtos\\documents\\documentsearchresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BC25E6-FC6E-48AC-A4FC-45EB02F7FE88}|Application\\Application.csproj|solutionrelative:application\\dtos\\documents\\documentsearchresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentRepository.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Infrastructure\\Repositories\\DocumentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\DocumentRepository.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Infrastructure\\Repositories\\DocumentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\DocumentRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:08:28.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ConsultSite\\appsettings.Development.json",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\appsettings.Development.json",
+              "RelativeToolTip": "ConsultSite\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T20:32:48.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\Program.cs",
+              "RelativeDocumentMoniker": "ConsultSite\\Program.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\Program.cs",
+              "RelativeToolTip": "ConsultSite\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv28AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:06:58.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\appsettings.json",
+              "RelativeDocumentMoniker": "ConsultSite\\appsettings.json",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\appsettings.json",
+              "RelativeToolTip": "ConsultSite\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T20:15:02.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocumentListItemDto.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\Documents\\DocumentListItemDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Documents\\DocumentListItemDto.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\Documents\\DocumentListItemDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Documents\\DocumentListItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:32:46.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ConsultSite\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ConsultSite\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T12:26:49.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDocumentRepository.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Interfaces\\IDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IDocumentRepository.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Interfaces\\IDocumentRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:32:50.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Interfaces\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IDocumentService.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Interfaces\\IDocumentService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IDocumentService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:32:51.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentsController.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\Controllers\\DocumentsController.cs",
+              "RelativeDocumentMoniker": "ConsultSite\\Controllers\\DocumentsController.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\Controllers\\DocumentsController.cs",
+              "RelativeToolTip": "ConsultSite\\Controllers\\DocumentsController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwGAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:05:56.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocumentFullDto.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\Documents\\DocumentFullDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Documents\\DocumentFullDto.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\Documents\\DocumentFullDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Documents\\DocumentFullDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:32:43.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\DocumentService.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Services\\DocumentService.cs",
+              "RelativeToolTip": "Application\\Services\\DocumentService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwF4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:20:14.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAMwEMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:01:56.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITemplateFileRepository.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Interfaces\\ITemplateFileRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ITemplateFileRepository.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Interfaces\\ITemplateFileRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ITemplateFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:12:58.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TemplateFileRepository.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Infrastructure\\Repositories\\TemplateFileRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\TemplateFileRepository.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Infrastructure\\Repositories\\TemplateFileRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\TemplateFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:13:41.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ConsultSite\\WeatherForecast.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\WeatherForecast.cs",
+              "RelativeToolTip": "ConsultSite\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:18:28.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:41:01.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TemplateFile.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Domain\\Entities\\TemplateFile.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TemplateFile.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Domain\\Entities\\TemplateFile.cs",
+              "RelativeToolTip": "Domain\\Entities\\TemplateFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:09:57.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:28:28.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ConsultSite\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\ConsultSite\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ConsultSite\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:05:53.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\User\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\User\\UserRegisterDto.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\User\\UserRegisterDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\User\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:24:38.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:42:06.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\User\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\User\\UserLoginDto.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\User\\UserLoginDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\User\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:24:53.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\User\\UserDto.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\User\\UserDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:25:07.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:12:08.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DocumentTopicGroupDto.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\Documents\\DocumentTopicGroupDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Documents\\DocumentTopicGroupDto.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\Documents\\DocumentTopicGroupDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Documents\\DocumentTopicGroupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:32:48.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DocumentShortDto.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\Documents\\DocumentShortDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Documents\\DocumentShortDto.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\Documents\\DocumentShortDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Documents\\DocumentShortDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:32:47.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DocumentSearchResultDto.cs",
+              "DocumentMoniker": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\Documents\\DocumentSearchResultDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Documents\\DocumentSearchResultDto.cs",
+              "ToolTip": "D:\\GamerBear\\ConsultSite_with_download\\ConsultSite\\Application\\DTOs\\Documents\\DocumentSearchResultDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Documents\\DocumentSearchResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:32:47.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

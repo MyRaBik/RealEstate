@@ -1,0 +1,11 @@
+D:\GamerBear\ConsultSite_with_download\ConsultSite\Domain\bin\Release\net8.0\Domain.deps.json
+D:\GamerBear\ConsultSite_with_download\ConsultSite\Domain\bin\Release\net8.0\Domain.dll
+D:\GamerBear\ConsultSite_with_download\ConsultSite\Domain\bin\Release\net8.0\Domain.pdb
+D:\GamerBear\ConsultSite_with_download\ConsultSite\Domain\obj\Release\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GamerBear\ConsultSite_with_download\ConsultSite\Domain\obj\Release\net8.0\Domain.AssemblyInfoInputs.cache
+D:\GamerBear\ConsultSite_with_download\ConsultSite\Domain\obj\Release\net8.0\Domain.AssemblyInfo.cs
+D:\GamerBear\ConsultSite_with_download\ConsultSite\Domain\obj\Release\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\GamerBear\ConsultSite_with_download\ConsultSite\Domain\obj\Release\net8.0\Domain.dll
+D:\GamerBear\ConsultSite_with_download\ConsultSite\Domain\obj\Release\net8.0\refint\Domain.dll
+D:\GamerBear\ConsultSite_with_download\ConsultSite\Domain\obj\Release\net8.0\Domain.pdb
+D:\GamerBear\ConsultSite_with_download\ConsultSite\Domain\obj\Release\net8.0\ref\Domain.dll

@@ -1,0 +1,17 @@
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\bin\Release\net8.0\DbLib.deps.json
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\bin\Release\net8.0\DbLib.runtimeconfig.json
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\bin\Release\net8.0\DbLib.dll
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\bin\Release\net8.0\DbLib.pdb
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\bin\Release\net8.0\Domain.dll
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\bin\Release\net8.0\Domain.pdb
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\obj\Release\net8.0\DbLib.csproj.AssemblyReference.cache
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\obj\Release\net8.0\DbLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\obj\Release\net8.0\DbLib.AssemblyInfoInputs.cache
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\obj\Release\net8.0\DbLib.AssemblyInfo.cs
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\obj\Release\net8.0\DbLib.csproj.CoreCompileInputs.cache
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\obj\Release\net8.0\DbLib.csproj.Up2Date
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\obj\Release\net8.0\DbLib.dll
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\obj\Release\net8.0\refint\DbLib.dll
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\obj\Release\net8.0\DbLib.pdb
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\obj\Release\net8.0\DbLib.genruntimeconfig.cache
+D:\GamerBear\ConsultSite_with_download\ConsultSite\DbLib\obj\Release\net8.0\ref\DbLib.dll
